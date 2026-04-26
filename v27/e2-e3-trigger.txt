@@ -1,0 +1,2 @@
+v27 E2/E3 trigger: commit on test-anomaly-repo-3 (NOT mapped to any release module).
+DEV-111 — UNKNOWN_MODULE + COMMIT_FROM_UNASSIGNED_REPO
